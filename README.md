@@ -4,8 +4,11 @@ Final project for [Javascript for WP Bootcamp](http://url.kybernaut.cz/js4wp-boo
 
 The plugin will ideally consist of two parts which I need for tailor made themes with Blocks editor the most.
 
-1. Section block
-1. Templating kit
+1. [Section block](https://github.com/vyskoczilova/JSforWP-blocks#section-block)
+1. [Templating kit](https://github.com/vyskoczilova/JSforWP-blocks#templating-kit)
+
+## TODO
+* add pseudocode for both blocks
 
 ## Section block
 
